@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# csbELISA <img src="inst/icons/Logo_v2.png" align="right" width="160">
+# csbELISA <img src="inst/icons/Logo.png" align="right" width="160">
 
 <!-- badges: start -->
 <!-- badges: end -->
