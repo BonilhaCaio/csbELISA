@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# csbELISA <img src="inst/icons/Logo.png" align="right" width="160">
+# csbELISA <img src="inst/icons/Logo_v2.png" align="right" width="160">
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -52,7 +52,7 @@ raw data import to concentration estimation and statistical inference.
     subtracted automatically, and standard wells are ordered internally
     to construct the standard curve.
 
-<img src="images/csbELISA1.png" width="100%">
+<img src="images/csbELISA1_v2.png" width="100%">
 
 -   The *Standard curve* tab enables fitting of the calibration curve.
     Users specify the neat standard concentration and dilution factor,
@@ -61,7 +61,7 @@ raw data import to concentration estimation and statistical inference.
     record keeping.
 
 <center>
-<img src="images/csbELISA2.png" width="85%">
+<img src="images/csbELISA2_v2.png" width="100%">
 </center>
 
 -   In the *Sample selection* tab, experimental samples are grouped by
@@ -69,7 +69,7 @@ raw data import to concentration estimation and statistical inference.
     locked to prevent reassignment, and defined groups are displayed in a
     summary panel prior to analysis.
 
-<img src="images/csbELISA3.png" width="100%">
+<img src="images/csbELISA3_v2.png" width="100%">
 
 -   The *Results* tab reports calculated concentrations for all samples
     based on the fitted standard curve. Group-wise means, standard
@@ -77,7 +77,7 @@ raw data import to concentration estimation and statistical inference.
     full results table can be exported as a `.csv` file.
 
 <center>
-<img src="images/csbELISA4.png" width="85%">
+<img src="images/csbELISA4_v2.png" width="100%">
 </center>
 
 -   Data visualization is performed in the *Plot* tab, where results can
@@ -86,7 +86,7 @@ raw data import to concentration estimation and statistical inference.
     individual data points, and assign custom colors to each group.
 
 <center>
-<img src="images/csbELISA5.png" width="85%">
+<img src="images/csbELISA5_v2.png" width="100%">
 </center>
 
 -   Statistical analysis is carried out in the *Stats* tab. Depending on
@@ -97,7 +97,7 @@ raw data import to concentration estimation and statistical inference.
     graphically and as a detailed textual summary.
 
 <center>
-<img src="images/csbELISA6.png" width="85%">
+<img src="images/csbELISA6_v2.png" width="100%">
 </center>
 
 ## Credits and citation
